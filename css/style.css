@@ -1,0 +1,29 @@
+/* Start writing your CSS */
+
+h1{
+font-size: 30 px;
+color: purple; 
+text-decoration: Underline; 
+padding: 1%;
+}
+nav {background-color: greenyellow;
+margin: 0 auto;
+}
+
+nav p{
+font-size: 20px;
+color: purple;
+line-height: 1.5%;
+}
+
+#main_content{
+    margin: 2%; 
+    background-color: lavender;
+    font-size: 18px;
+    color: purple;
+}
+
+.yum{
+font-weight: bold;
+text-decoration: underline;
+}
